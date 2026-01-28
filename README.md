@@ -32,3 +32,4 @@ Usage
 # Voting_System_with_face_recognition
 # final-year-project
 # Smart_voting_system
+# ai_log_monitoring_system
